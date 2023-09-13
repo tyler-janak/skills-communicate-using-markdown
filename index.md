@@ -7,3 +7,8 @@ I made the wording at the top a h1 header.
 ```{r}
 myvar <- "Hello World"
 ```
+
+- [ ] Turn on GitHub Pages
+- [ ] Outline my portfolio
+- [ ] Introduce myself to the world
+
